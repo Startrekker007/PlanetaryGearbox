@@ -1,0 +1,4 @@
+Extend tranny collar by 20mm towards the ring gear
+Create dog teeth on the ring and sun gear.
+Create keyways for attached gears to shafts.
+
