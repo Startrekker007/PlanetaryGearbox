@@ -81,4 +81,4 @@ Link: https://www.amazon.com/Dremel-Nylon-Printer-Filament-Diameter/dp/B076MBTJB
 
 The sliced renders and filament estimations were done using Ultimaker Cura (With the Tevo Tarantula (Reprap) as the printer).
 
-Some of the models above are shown with a "sectional" view to show the interior infill.
+Some of the models above are shown with a "sectional" view to show the interior infill. Brim type build adhesion is COMPULSORY for the larger prints e.g. Ring gear otherwise warping may occur.
