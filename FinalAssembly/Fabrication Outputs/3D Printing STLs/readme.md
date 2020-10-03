@@ -63,10 +63,19 @@ This part must be printed as per the following figure:
 
 The total ABS requirement for this is 7g (2.62m).
 
-##### Total Material Requirement:
-In order to print all the required parts to produce the gearbox, the fabricator will require 177g of ABS. Or 66.65m of 1.75mm ABS filament.
+##### Spacing Washers
+This part must be printed as per the following figure:
 
-From Amazon, Dremel 1.75mm ABS filament (Black) 1KG costs $34.99 USD, the total used for this job would cost $6.19.
+![](~img/washer.png)
+
+Together these parts require 1g of ABS (0.21m).
+
+These two parts can be printed at once, however must be spaced out by at least 20mm to prevent stringing between the two (in case of poor retraction or bowden feed setups).
+
+##### Total Material Requirement:
+In order to print all the required parts to produce the gearbox, the fabricator will require 178g of ABS. Or 66.86m of 1.75mm ABS filament.
+
+From Amazon, Dremel 1.75mm ABS filament (Black) 1KG costs $34.99 USD, the total used for this job would cost $6.23.
 
 Link: https://www.amazon.com/Dremel-Nylon-Printer-Filament-Diameter/dp/B076MBTJBR/
 
