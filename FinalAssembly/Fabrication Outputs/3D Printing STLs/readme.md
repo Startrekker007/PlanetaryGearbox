@@ -69,3 +69,5 @@ In order to print all the required parts to produce the gearbox, the fabricator 
 From Amazon, Dremel 1.75mm ABS filament (Black) 1KG costs $34.99 USD, the total used for this job would cost $6.19.
 
 Link: https://www.amazon.com/Dremel-Nylon-Printer-Filament-Diameter/dp/B076MBTJBR/
+
+The sliced renders and filament estimations were done using Ultimaker Cura (With the Tevo Tarantula (Reprap) as the printer).
