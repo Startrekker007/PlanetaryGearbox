@@ -2,5 +2,5 @@ The submission for the assignment is in the folder FinalAssembly. Within there i
 
 The _Old folder consists of the working files during the project and they don't need to be seen, they're just in the git repository in case.
 
-The git repository link is easier to read and view therefore the link is https://github.com/Startrekker007/PlanetaryGearbox
+Viewing on Github is easier to read and view therefore the link is https://github.com/Startrekker007/PlanetaryGearbox
 
