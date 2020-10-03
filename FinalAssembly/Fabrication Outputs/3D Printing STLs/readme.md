@@ -71,3 +71,5 @@ From Amazon, Dremel 1.75mm ABS filament (Black) 1KG costs $34.99 USD, the total 
 Link: https://www.amazon.com/Dremel-Nylon-Printer-Filament-Diameter/dp/B076MBTJBR/
 
 The sliced renders and filament estimations were done using Ultimaker Cura (With the Tevo Tarantula (Reprap) as the printer).
+
+Some of the models above are shown with a "sectional" view to show the interior infill.
