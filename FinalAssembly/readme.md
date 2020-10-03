@@ -7,13 +7,13 @@ This gearbox consists of a simple planetary gear drive system consisting of thre
 The exterior box is made of laser cut 6mm acrylic while the gears themselves are to be 3D printed using ABS filament with at least 60% infill to provide the strength needed (as the input rotary motion specifications are unknown). For further details, please refer to the readme found within the fabrication outputs folder for 3D printing.
 
 
-The gears all follow a standard which consists of a module of 2.5 and pressure angle of 20o. As mentioned previously there are two drive gears to the output shaft which provide two different directions and rate of rotations. The two gears are the sun and ring gears.
+The gears all follow a standard which consists of a module of 2.5 and pressure angle of 20 degrees. As mentioned previously there are two drive gears to the output shaft which provide two different directions and rate of rotations. The two gears are the sun and ring gears.
 The gear ratio between the output and input shafts when the sun gear is engaged is 2:1 (input : output). The gear ratio from when the ring gear is engaged is 4:1 in the opposite direction. As such this gearbox is a reduction gearbox.
 
 
 In order to mount a bearing onto the shafts, the bearing must be heated in heated oil to expand it. Then it can be mounted onto a shaft and after it cools it will form a tight grip with the shaft and shouldn’t move around.
 
-As the gear system is expected to be slow in rotational speed (it is plastic and ABS melts at 230o and will erode quickly), epoxy can be used to mount the gears onto the bearings.
+As the gear system is expected to be slow in rotational speed (it is plastic and ABS melts at 230 degrees and will erode quickly), epoxy can be used to mount the gears onto the bearings.
 
 
 For additional assembly details regarding the gearbox, please refer to the file “instructions.pdf” which consists of a step by step set of instructions on assembling the gearbox and getting it ready for operation.
